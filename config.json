@@ -1,0 +1,12 @@
+{
+  "competitions": [
+    "ligue-1-fr",
+    "bundesliga-de",
+    "laliga-es",
+    "premier-league-gb-eng"
+  ],
+  "sorare_user": "glc7",
+  "set_slug": "auto",
+  "extra_my_players": [],
+  "notify": "all"
+}
