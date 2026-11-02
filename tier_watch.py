@@ -27,6 +27,7 @@ STATE_PATH = os.path.join(ROOT, "data", "tiers.json")
 HISTORY_PATH = os.path.join(ROOT, "data", "history.csv")
 REPORT_PATH = os.path.join(ROOT, "report.md")
 DASHBOARD_PATH = os.path.join(ROOT, "docs", "index.html")
+SETS_PATH = os.path.join(ROOT, "data", "sets.json")
 
 # Valeurs de l'enum GraphQL `GameplayTier` -> nom affiché dans Sorare Set
 TIERS = {
@@ -84,7 +85,7 @@ Q_PLAYERS = """query($s: String!, $a: String) { football { club(slug: $s) {
 
 Q_MY_CARDS = """query($u: String!, $a: String) { user(slug: $u) {
   cards(sport: FOOTBALL, rarities: [common], first: 50, after: $a) {
-    nodes { ... on Card { cardSet { slug startDate } player { slug } } }
+    nodes { ... on Card { cardSet { slug } player { slug } } }
     pageInfo { hasNextPage endCursor } } } }"""
 
 
@@ -112,32 +113,52 @@ def fetch_all_players(competitions):
     return players
 
 
-def fetch_my_players(user_slug, set_slug):
+def current_set(gallery_sets, hint):
+    """Set en cours, sans champ de date (les dates de CardSet passent par un argument obsolète).
+
+    data/sets.json garde l'ordre d'apparition des Sets dans ta galerie : un Set jamais vu
+    devient le Set en cours dès que tu en reçois une carte. `hint` sert à initialiser l'ordre.
+    """
+    known = []
+    if os.path.exists(SETS_PATH):
+        with open(SETS_PATH, encoding="utf-8") as f:
+            known = json.load(f)
+    if not known:
+        known = sorted(s for s in gallery_sets if s != hint) + ([hint] if hint in gallery_sets else [])
+    new = sorted(s for s in gallery_sets if s not in known)
+    known += new
+    with open(SETS_PATH, "w", encoding="utf-8") as f:
+        json.dump(known, f)
+    return (known[-1] if known else None), new
+
+
+def fetch_my_players(user_slug, set_slug, set_hint=None):
     """Joueurs dont tu possèdes au moins une carte Set (galerie publique, pas besoin de connexion).
 
-    set_slug : None = tous les Sets ; "auto" = le Set le plus récent de ta galerie ; sinon un slug précis.
-    Retourne (dict joueur -> nb de cartes, nom du Set retenu).
+    set_slug : None = tous les Sets ; "auto" = le Set en cours ; sinon un slug précis.
+    Retourne (dict joueur -> nb de cartes, Set retenu, nouveaux Sets détectés).
     """
-    cards, starts, after = [], {}, None
+    cards, sets, after = [], set(), None
     while True:
         conn = gql(Q_MY_CARDS, {"u": user_slug, "a": after})["user"]["cards"]
         for card in conn["nodes"]:
             if card and card.get("cardSet") and card.get("player"):
-                cs = card["cardSet"]
-                starts[cs["slug"]] = cs.get("startDate") or ""
-                cards.append((cs["slug"], card["player"]["slug"]))
+                sets.add(card["cardSet"]["slug"])
+                cards.append((card["cardSet"]["slug"], card["player"]["slug"]))
         if not conn["pageInfo"]["hasNextPage"]:
             break
         after = conn["pageInfo"]["endCursor"]
+    new_sets = []
+    starts = sets
     if set_slug == "auto":
-        set_slug = max(starts, key=starts.get) if starts else None
+        set_slug, new_sets = current_set(sets, set_hint)
     owned = {}
     for cs, player in cards:
         if set_slug is None or cs == set_slug:
             owned[player] = owned.get(player, 0) + 1
     print(f"Galerie : {len(cards)} cartes Set ({', '.join(sorted(starts))}) -> "
           f"Set retenu : {set_slug or 'tous'}, {len(owned)} joueurs", file=sys.stderr)
-    return owned, set_slug
+    return owned, set_slug, new_sets
 
 
 # ------------------------------------------------------------------------ report
@@ -300,9 +321,11 @@ def main():
     today = dt.date.today().isoformat()
 
     current = fetch_all_players(cfg["competitions"])
-    owned, my_set = {}, None
+    owned, my_set, new_sets = {}, None, []
     if cfg.get("sorare_user"):
-        owned, my_set = fetch_my_players(cfg["sorare_user"].lower(), cfg.get("set_slug", "auto"))
+        os.makedirs(os.path.dirname(SETS_PATH), exist_ok=True)
+        owned, my_set, new_sets = fetch_my_players(cfg["sorare_user"].lower(), cfg.get("set_slug", "auto"),
+                                                   cfg.get("set_hint"))
     for s in cfg.get("extra_my_players", []):
         owned.setdefault(s, 1)
 
@@ -338,7 +361,10 @@ def main():
 
     report = build_report(today, current, previous, owned, first_run, ups, downs)
     if my_set:
-        report = report.replace("\n\n", f"\n\n_Mes joueurs = joueurs dont j'ai une carte du Set « {my_set} »._\n\n", 1)
+        note = f"_Mes joueurs = joueurs dont j'ai une carte du Set « {my_set} »._"
+        if new_sets and not first_run:
+            note = f"🆕 **Nouveau Set détecté dans ta galerie : {', '.join(new_sets)}.** " + note
+        report = report.replace("\n\n", f"\n\n{note}\n\n", 1)
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
         f.write(report)
     build_dashboard(today, current, owned)
