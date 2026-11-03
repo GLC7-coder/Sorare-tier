@@ -2,7 +2,7 @@ name: Sorare tier watch
 
 on:
   schedule:
-    - cron: "17 5 * * *"   # tous les jours vers 6h-7h heure de Paris
+    - cron: "17 7 * * *"   # tous les jours vers 8h-9h heure de Paris
   workflow_dispatch:
 
 permissions:
