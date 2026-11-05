@@ -980,8 +980,8 @@
   "league": "Ligue 1",
   "name": "Alexsandro",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "alfie-cresswell": {
   "club": "Leeds United FC",
@@ -1188,8 +1188,8 @@
   "league": "LALIGA EA Sports",
   "name": "Álvaro Valles",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "alvin-petit-dol": {
   "club": "AJ Auxerre",
@@ -1548,8 +1548,8 @@
   "league": "Bundesliga",
   "name": "Angelo Stiller",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "anis-doubal": {
   "club": "Olympique de Marseille",
@@ -1740,8 +1740,8 @@
   "league": "English League Players",
   "name": "Antonín Kinský",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "antonio-blanco-conde": {
   "club": "D. Alavés",
@@ -1756,8 +1756,8 @@
   "league": "Bundesliga",
   "name": "Antonio Nusa",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "antonio-joao-pereira-albuquerque-tavares-silva": {
   "club": "AFC Bournemouth",
@@ -2132,8 +2132,8 @@
   "league": "LALIGA EA Sports",
   "name": "Aymeric Laporte",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "ayoube-amaimouni-echghouyab": {
   "club": "Eintracht Frankfurt",
@@ -2228,8 +2228,8 @@
   "league": "English League Players",
   "name": "Bart Verbruggen",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "basar-onal": {
   "club": "LOSC Lille",
@@ -2524,8 +2524,8 @@
   "league": "English League Players",
   "name": "Bradley Barcola",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "bradley-gregory-slade": {
   "club": "Fulham FC",
@@ -2652,8 +2652,8 @@
   "league": "Ligue 1",
   "name": "Brice Samba",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "bright-ede": {
   "club": "Real Club Deportivo de La Coruña",
@@ -2676,8 +2676,8 @@
   "league": "English League Players",
   "name": "Bruno Guimarães",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "bruno-ifechukwu-ogbus": {
   "club": "Sport-Club Freiburg",
@@ -2692,8 +2692,8 @@
   "league": "English League Players",
   "name": "Bruno Fernandes",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "bryan-ikemefuna-okoh": {
   "club": "AJ Auxerre",
@@ -2716,8 +2716,8 @@
   "league": "English League Players",
   "name": "Bryan Mbeumo",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "bryan-reynolds": {
   "club": "Stade Rennais F.C.",
@@ -2740,8 +2740,8 @@
   "league": "English League Players",
   "name": "Bukayo Saka",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "ROSTER"
+  "since": "2026-11-05",
+  "tier": "GOAT"
  },
  "cajetan-benjamin-lenz": {
   "club": "TSG Hoffenheim",
@@ -3132,8 +3132,8 @@
   "league": "Bundesliga",
   "name": "Chris Führich",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "chris-richards": {
   "club": "Crystal Palace FC",
@@ -3252,8 +3252,8 @@
   "league": "Bundesliga",
   "name": "Christopher Nkunku",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "christopher-rigg": {
   "club": "Sunderland AFC",
@@ -3284,8 +3284,8 @@
   "league": "English League Players",
   "name": "Christos Tzolis",
   "pos": "Forward",
-  "since": "2026-11-04",
-  "tier": "ROSTER"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "chuba-akpom": {
   "club": "Ipswich Town FC",
@@ -3348,16 +3348,16 @@
   "league": "English League Players",
   "name": "Cody Gakpo",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "cole-palmer": {
   "club": "Chelsea FC",
   "league": "English League Players",
   "name": "Cole Palmer",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "conor-bradley-2003-07-09": {
   "club": "Liverpool FC",
@@ -3420,8 +3420,8 @@
   "league": "LALIGA EA Sports",
   "name": "Cristian Romero",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "DNP"
  },
  "cristian-rivero-sabater": {
   "club": "Valencia CF",
@@ -3436,8 +3436,8 @@
   "league": "Ligue 1",
   "name": "Cristian Cásseres Jr.",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "cyriaque-kalou-bi-irie": {
   "club": "Sport-Club Freiburg",
@@ -3484,8 +3484,8 @@
   "league": "English League Players",
   "name": "Emiliano Martínez",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "ROSTER"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "dan-axel-zagadou": {
   "club": "VfB Stuttgart",
@@ -3908,8 +3908,8 @@
   "league": "Bundesliga",
   "name": "David Raum",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "david-raya-martin": {
   "club": "Arsenal FC",
@@ -3964,8 +3964,8 @@
   "league": "LALIGA EA Sports",
   "name": "Dean Huijsen",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "dean-henderson": {
   "club": "Crystal Palace FC",
@@ -4036,8 +4036,8 @@
   "league": "Bundesliga",
   "name": "Deniz Undav",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "deniz-zeitler": {
   "club": "SC Paderborn 07",
@@ -4324,8 +4324,8 @@
   "league": "Ligue 1",
   "name": "Dominik Greif",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "dominik-kohr": {
   "club": "1. FSV Mainz 05",
@@ -4348,8 +4348,8 @@
   "league": "English League Players",
   "name": "Dominik Szoboszlai",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "dorde-petrovic-1999-10-08": {
   "club": "AFC Bournemouth",
@@ -4452,8 +4452,8 @@
   "league": "Bundesliga",
   "name": "Edmond Tapsoba",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "eduardo-altozano-agudo": {
   "club": "Sevilla FC",
@@ -4828,8 +4828,8 @@
   "league": "English League Players",
   "name": "Enzo Fernández",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "enzo-koffi-vinette": {
   "club": "Le Havre AC",
@@ -4900,8 +4900,8 @@
   "league": "LALIGA EA Sports",
   "name": "Eric García",
   "pos": "Defender",
-  "since": "2026-11-04",
-  "tier": "DNP"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "eric-junior-dina-ebimbe": {
   "club": "FC Schalke 04",
@@ -4964,8 +4964,8 @@
   "league": "Ligue 1",
   "name": "Esteban Lepaul",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "estevao-willian-almeida-de-oliveira-goncalves": {
   "club": "Chelsea FC",
@@ -5084,8 +5084,8 @@
   "league": "English League Players",
   "name": "Ezri Konsa",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "fabian-bredlow": {
   "club": "VfB Stuttgart",
@@ -5108,16 +5108,16 @@
   "league": "Bundesliga",
   "name": "Fabian Rieder",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "fabian-ruiz-pena": {
   "club": "Paris Saint-Germain",
   "league": "Ligue 1",
   "name": "Fabián Ruiz",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "fabio-amadu-uri-balde": {
   "club": "RC Strasbourg Alsace",
@@ -5404,8 +5404,8 @@
   "league": "Ligue 1",
   "name": "Ferran Torres",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "filip-jorgensen": {
   "club": "RC Strasbourg Alsace",
@@ -5556,8 +5556,8 @@
   "league": "English League Players",
   "name": "Florian Wirtz",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "floyd-samba": {
   "club": "Manchester City FC",
@@ -5780,8 +5780,8 @@
   "league": "English League Players",
   "name": "Gabriel Magalhães",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "gabriel-fernando-de-jesus": {
   "club": "FC Barcelona",
@@ -6452,8 +6452,8 @@
   "league": "Bundesliga",
   "name": "Hasan Kuruçay",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "hayden-hackney": {
   "club": "Everton FC",
@@ -6972,8 +6972,8 @@
   "league": "Ligue 1",
   "name": "Ilan Kebbal",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "ilane-toure": {
   "club": "AS Monaco",
@@ -7092,8 +7092,8 @@
   "league": "LALIGA EA Sports",
   "name": "Iñigo Vicente",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "ioannis-konstantelias": {
   "club": "Borussia Dortmund",
@@ -7204,8 +7204,8 @@
   "league": "Bundesliga",
   "name": "Ismael Saibari",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "ismail-bouneb": {
   "club": "Le Havre AC",
@@ -7644,8 +7644,8 @@
   "league": "LALIGA EA Sports",
   "name": "Jan Oblak",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "jan-paul-van-hecke": {
   "club": "Tottenham Hotspur FC",
@@ -8068,8 +8068,8 @@
   "league": "English League Players",
   "name": "Jeremy Doku",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "jeremy-jacquet": {
   "club": "Liverpool FC",
@@ -8236,8 +8236,8 @@
   "league": "Bundesliga",
   "name": "Joane Gadou",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "joao-lucas-de-souza-cardoso": {
   "club": "Atlético de Madrid",
@@ -8436,8 +8436,8 @@
   "league": "English League Players",
   "name": "Johan Manzambi",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "johaneko-louisjean": {
   "club": "Athletic Club",
@@ -8604,8 +8604,8 @@
   "league": "LALIGA EA Sports",
   "name": "Jonathan David",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "jonathan-dubasin": {
   "club": "CA Osasuna",
@@ -8636,8 +8636,8 @@
   "league": "Bundesliga",
   "name": "Jonathan Tah",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "jones-el-abdellaoui": {
   "club": "RC Celta",
@@ -9276,8 +9276,8 @@
   "league": "Bundesliga",
   "name": "Jeff Chabot",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "julian-ryerson": {
   "club": "Borussia Dortmund",
@@ -9492,8 +9492,8 @@
   "league": "Bundesliga",
   "name": "Kaishu Sano",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "kaito-mizuta": {
   "club": "Le Havre AC",
@@ -10108,8 +10108,8 @@
   "league": "Ligue 1",
   "name": "Lassine Sinayoko",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "laurent-abergel": {
   "club": "OGC Nice",
@@ -10284,8 +10284,8 @@
   "league": "English League Players",
   "name": "Lewis Hall",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "lewis-koumas": {
   "club": "Liverpool FC",
@@ -10860,8 +10860,8 @@
   "league": "English League Players",
   "name": "Luka Vušković",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "lukas-hornicek": {
   "club": "Newcastle United FC",
@@ -11004,8 +11004,8 @@
   "league": "Bundesliga",
   "name": "Maarten Vandevoordt",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "macauley-adams-zepa": {
   "club": "Fulham FC",
@@ -11276,8 +11276,8 @@
   "league": "Bundesliga",
   "name": "Manuel Neuer",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "manuel-pherai": {
   "club": "Hamburger SV",
@@ -11348,16 +11348,16 @@
   "league": "LALIGA EA Sports",
   "name": "Marc Cucurella",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "marc-guehi": {
   "club": "Manchester City FC",
   "league": "English League Players",
   "name": "Marc Guéhi",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "marc-guiu-paz": {
   "club": "RB Leipzig",
@@ -11932,8 +11932,8 @@
   "league": "English League Players",
   "name": "Matheus Cunha",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "mathew-ryan": {
   "club": "Levante UD",
@@ -12020,8 +12020,8 @@
   "league": "English League Players",
   "name": "Rayan Cherki",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "mathys-detourbet": {
   "club": "AS Monaco",
@@ -12156,8 +12156,8 @@
   "league": "Bundesliga",
   "name": "Matthias Ginter",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "matthias-kobbing": {
   "club": "1. FC Köln",
@@ -12300,8 +12300,8 @@
   "league": "English League Players",
   "name": "Maxim De Cuyper",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "maxima-adeagan-goffi": {
   "club": "LOSC Lille",
@@ -12324,8 +12324,8 @@
   "league": "Ligue 1",
   "name": "Maxime Lopez",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "maximilian-beier": {
   "club": "Borussia Dortmund",
@@ -12356,8 +12356,8 @@
   "league": "Bundesliga",
   "name": "Maximilian Mittelstädt",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "maximilian-rohr": {
   "club": "SV 07 Elversberg",
@@ -12692,16 +12692,16 @@
   "league": "Ligue 1",
   "name": "Mika Godts",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "ROSTER"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "mike-penders": {
   "club": "Chelsea FC",
   "league": "English League Players",
   "name": "Mike Penders",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "mikel-bermejo-sola": {
   "club": "CA Osasuna",
@@ -12732,8 +12732,8 @@
   "league": "LALIGA EA Sports",
   "name": "Oyarzabal",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "mikel-rodriguez-ulacia": {
   "club": "D. Alavés",
@@ -12796,8 +12796,8 @@
   "league": "Bundesliga",
   "name": "Mio Backhaus",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "miodrag-pivas": {
   "club": "Newcastle United FC",
@@ -12948,8 +12948,8 @@
   "league": "English League Players",
   "name": "Moisés Caicedo",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "montassar-talbi": {
   "club": "FC Lorient",
@@ -13092,8 +13092,8 @@
   "league": "Ligue 1",
   "name": "Moussa Niakhaté",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "moussa-sylla": {
   "club": "FC Schalke 04",
@@ -13188,8 +13188,8 @@
   "league": "Bundesliga",
   "name": "Nadiem Amiri",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "nahuel-nicolas-noll": {
   "club": "SC Paderborn 07",
@@ -14324,8 +14324,8 @@
   "league": "Ligue 1",
   "name": "Pablo Pagis",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "pablo-ramon-parra": {
   "club": "Real Racing Club de Santander",
@@ -14396,8 +14396,8 @@
   "league": "English League Players",
   "name": "Pascal Gross",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "pascal-struijk": {
   "club": "Brighton & Hove Albion FC",
@@ -14668,8 +14668,8 @@
   "league": "English League Players",
   "name": "Phil Foden",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "ROSTER"
  },
  "philipp-kohn": {
   "club": "AS Monaco",
@@ -16284,8 +16284,8 @@
   "league": "Bundesliga",
   "name": "Serhou Guirassy",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "shafiq-bello-nandja": {
   "club": "Hamburger SV",
@@ -16844,8 +16844,8 @@
   "league": "LALIGA EA Sports",
   "name": "Thibaut Courtois",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "thierno-barry-2002-10-21": {
   "club": "Everton FC",
@@ -17428,8 +17428,8 @@
   "league": "LALIGA EA Sports",
   "name": "Unai Simón",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "urko-gonzalez-de-zarate-quiros": {
   "club": "RCD Espanyol de Barcelona",
@@ -17644,8 +17644,8 @@
   "league": "English League Players",
   "name": "Virgil van Dijk",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "vitalie-becker": {
   "club": "FC Schalke 04",
@@ -17724,8 +17724,8 @@
   "league": "Bundesliga",
   "name": "Waldemar Anton",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "walter-daniel-benitez": {
   "club": "Crystal Palace FC",
@@ -17972,8 +17972,8 @@
   "league": "LALIGA EA Sports",
   "name": "Yan Diomande",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "GOAT"
+  "since": "2026-11-05",
+  "tier": "STAR"
  },
  "yangel-clemente-herrera-ravelo": {
   "club": "Real Sociedad",
@@ -18180,8 +18180,8 @@
   "league": "English League Players",
   "name": "Youri Tielemans",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-05",
+  "tier": "IMPACT"
  },
  "youssef-enriquez-lekhedim": {
   "club": "D. Alavés",
