@@ -6767,14 +6767,6 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
- "ibrahim-traore": {
-  "club": "ESTAC Troyes",
-  "league": "Ligue 1",
-  "name": "Ibrahim Traoré",
-  "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "DNP"
- },
  "ibrahim-yayiya-kante": {
   "club": "Stade Brestois 29",
   "league": "Ligue 1",
@@ -9191,6 +9183,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "juan-tiago-esteban-poller": {
+  "club": "TSG Hoffenheim",
+  "league": "Bundesliga",
+  "name": "Tiago Poller",
+  "pos": "Midfielder",
+  "since": "2026-11-06",
+  "tier": null
+ },
  "jude-bellingham": {
   "club": "Real Madrid",
   "league": "LALIGA EA Sports",
@@ -10349,6 +10349,14 @@
   "name": "Lion Schweers",
   "pos": "Defender",
   "since": "2026-11-02",
+  "tier": null
+ },
+ "lion-wagenbach": {
+  "club": "TSG Hoffenheim",
+  "league": "Bundesliga",
+  "name": "Lion Wagenbach",
+  "pos": "Forward",
+  "since": "2026-11-06",
   "tier": null
  },
  "lionel-mpasi-nzau": {
@@ -13302,6 +13310,14 @@
   "pos": "Forward",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "nathanael-james-kalembo": {
+  "club": "Crystal Palace FC",
+  "league": "English League Players",
+  "name": "Nathanael Kalembo",
+  "pos": "Midfielder",
+  "since": "2026-11-06",
+  "tier": null
  },
  "nathaniel-adjei": {
   "club": "FC Lorient",
