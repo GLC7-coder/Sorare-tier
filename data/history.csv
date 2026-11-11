@@ -348,3 +348,179 @@ date,slug,joueur,club,championnat,ancien_tier,nouveau_tier,possede
 2026-11-09,aurelien-tchouameni,Aurélien Tchouaméni,Real Madrid,LALIGA EA Sports,STAR,ROSTER,
 2026-11-09,moises-isaac-caicedo-corozo,Moisés Caicedo,Chelsea FC,English League Players,STAR,IMPACT,
 2026-11-09,josko-gvardiol,Joško Gvardiol,Manchester City FC,English League Players,STAR,ROSTER,
+2026-11-11,remy-labeau-lascary,Rémy Labeau-Lascary,AJ Auxerre,Ligue 1,DNP,ROSTER,
+2026-11-11,sinaly-diomande,Sinaly Diomande,AJ Auxerre,Ligue 1,DNP,ROSTER,oui
+2026-11-11,marvin-senaya,Marvin Senaya,AJ Auxerre,Ligue 1,DNP,ROSTER,
+2026-11-11,telli-siwe,Telli Siwe,AJ Auxerre,Ligue 1,DNP,ROSTER,
+2026-11-11,romain-faivre,Romain Faivre,AJ Auxerre,Ligue 1,ROSTER,IMPACT,
+2026-11-11,kamory-doumbia,Kamory Doumbia,Stade Brestois 29,Ligue 1,ROSTER,IMPACT,oui
+2026-11-11,ludovic-ajorque,Ludovic Ajorque,Stade Brestois 29,Ligue 1,ROSTER,IMPACT,
+2026-11-11,vincent-julien-sasso,Vincent Sasso,Le Havre AC,Ligue 1,DNP,ROSTER,
+2026-11-11,lucas-bretelle,Lucas Bretelle,Le Mans FC,Ligue 1,ROSTER,IMPACT,
+2026-11-11,erwan-colas,Erwan Colas,Le Mans FC,Ligue 1,DNP,ROSTER,
+2026-11-11,jonathan-gradit,Jonathan Gradit,RC Lens,Ligue 1,DNP,ROSTER,
+2026-11-11,kan-guy-arsene-kouassi,Arsène Kouassi,FC Lorient,Ligue 1,ROSTER,IMPACT,
+2026-11-11,sofiane-diop,Sofiane Diop,OGC Nice,Ligue 1,ROSTER,IMPACT,oui
+2026-11-11,nicolas-alejandro-tagliafico,Nicolás Tagliafico,Olympique Lyonnais,Ligue 1,DNP,ROSTER,oui
+2026-11-11,igor-guilherme-barbosa-da-paixao,Igor Paixão,Olympique de Marseille,Ligue 1,ROSTER,IMPACT,
+2026-11-11,quentin-ndjantou-mbitcha,Quentin Ndjantou,Paris Saint-Germain,Ligue 1,DNP,ROSTER,
+2026-11-11,ismael-boura,Ismaël Boura,ESTAC Troyes,Ligue 1,DNP,ROSTER,oui
+2026-11-11,yvann-titi,Yvann Titi,ESTAC Troyes,Ligue 1,DNP,ROSTER,oui
+2026-11-11,konrad-laimer,Konrad Laimer,FC Bayern München,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,daniel-batz,Daniel Batz,Borussia Mönchengladbach,Bundesliga,ROSTER,IMPACT,
+2026-11-11,franck-honorat,Franck Honorat,Borussia Mönchengladbach,Bundesliga,DNP,ROSTER,oui
+2026-11-11,oscar-winther-hojlund,Oscar Højlund,Eintracht Frankfurt,Bundesliga,DNP,ROSTER,
+2026-11-11,florian-le-joncour,Florian Le Joncour,SV 07 Elversberg,Bundesliga,DNP,ROSTER,
+2026-11-11,derry-lionel-scherhant,Derry Scherhant,Sport-Club Freiburg,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,alexander-rossing-lelesiit,Alexander Røssing-Lelesiit,Hamburger SV,Bundesliga,DNP,ROSTER,oui
+2026-11-11,fisnik-asllani,Fisnik Asllani,TSG Hoffenheim,Bundesliga,ROSTER,IMPACT,
+2026-11-11,koki-machida,Koki Machida,TSG Hoffenheim,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,fabio-gruber,Fabio Gruber,1. FSV Mainz 05,Bundesliga,DNP,ROSTER,oui
+2026-11-11,raphael-obermair,Raphael Obermair,SC Paderborn 07,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,neil-el-aynaoi,Neil El Aynaoui,RB Leipzig,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,ramon-hendriks,Ramon Hendriks,VfB Stuttgart,Bundesliga,ROSTER,IMPACT,oui
+2026-11-11,andrej-ilic,Andrej Ilić,1. FC Union Berlin,Bundesliga,DNP,ROSTER,
+2026-11-11,frederik-ronnow,Frederik Rønnow,1. FC Union Berlin,Bundesliga,ROSTER,IMPACT,
+2026-11-11,justin-gideon-njinmah,Justin Njinmah,SV Werder Bremen,Bundesliga,DNP,ROSTER,oui
+2026-11-11,nicholas-williams-arthuer,Nico Williams,Athletic Club,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,joao-lucas-de-souza-cardoso,João Cardoso,Atlético de Madrid,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,andreas-christensen,Andreas Christensen,FC Barcelona,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,sebastian-enzo-caceres-ramos-1999-08-18,Sebastián Cáceres,RC Celta,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,javier-rodriguez-galiano,Javi Rodríguez,RC Celta,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,ville-koski,Ville Koski,D. Alavés,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,antonio-sivera-salva,Sivera,D. Alavés,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,marc-casado-torras,Marc Casadó,Real Club Deportivo de La Coruña,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,grady-diangana,Grady Diangana,Elche CF,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,german-valera-karabinaite,Germán Valera,Elche CF,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,matias-ezequiel-dituro,Matías Dituro,Elche CF,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,ali-houary-jeddoub,Ali Houary,Elche CF,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,pere-milla-pena,Pere Milla,RCD Espanyol de Barcelona,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,hugo-sotelo,Hugo Sotelo,Levante UD,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,alex-pastor-carayol,Álex Pastor,Málaga CF,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,pablo-ramon-parra,Pablo Ramón,Real Racing Club de Santander,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,mohamed-yassir-zabiri,Yassir Zabiri,Real Racing Club de Santander,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,randy-ntekja,Randy Nteka,Rayo Vallecano,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,pablo-fornals-malla,Pablo Fornals,Real Betis,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,aitor-ruibal-garcia,Aitor Ruibal,Real Betis,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,marc-bartra-aregall,Marc Bartra,Real Betis,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,alejandro-remiro-gargallo,Álex Remiro,Real Sociedad,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,aihen-munoz-capellan,Aihen,Real Sociedad,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,orri-steinn-oskarsson,Orri Óskarsson,Real Sociedad,LALIGA EA Sports,ROSTER,IMPACT,
+2026-11-11,arouna-sangante,Arouna Sangante,Sevilla FC,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,gabriel-alonso-suazo-urbina,Gabriel Suazo,Sevilla FC,LALIGA EA Sports,ROSTER,IMPACT,oui
+2026-11-11,nathan-saliba,Nathan Saliba,Villarreal CF,LALIGA EA Sports,DNP,ROSTER,oui
+2026-11-11,logan-costa,Logan Costa,Villarreal CF,LALIGA EA Sports,DNP,ROSTER,
+2026-11-11,bruno-guimaraes-rodriguez-moura,Bruno Guimarães,Arsenal FC,English League Players,ROSTER,IMPACT,
+2026-11-11,taylor-harwood-bellis,Taylor Harwood-Bellis,Aston Villa FC,English League Players,DNP,ROSTER,
+2026-11-11,george-lawrence-hemmings,George Hemmings,Aston Villa FC,English League Players,DNP,ROSTER,oui
+2026-11-11,nathan-michael-collins,Nathan Collins,Brentford FC,English League Players,DNP,ROSTER,oui
+2026-11-11,luka-vuskovic,Luka Vušković,Brighton & Hove Albion FC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,mats-wieffer,Mats Wieffer,Brighton & Hove Albion FC,English League Players,DNP,ROSTER,
+2026-11-11,romeo-lavia,Roméo Lavia,Chelsea FC,English League Players,ROSTER,IMPACT,
+2026-11-11,loum-tchaouna,Loum Tchaouna,Coventry City FC,English League Players,DNP,ROSTER,oui
+2026-11-11,victor-torp-overgaard,Victor Torp,Coventry City FC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,stephen-mfuni,Stephen-Nevin Mfuni,Coventry City FC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,jorgen-strand-larsen,Jørgen Larsen,Crystal Palace FC,English League Players,DNP,ROSTER,oui
+2026-11-11,tyler-dibling,Tyler-Jay Dibling,Everton FC,English League Players,DNP,ROSTER,
+2026-11-11,vitalii-mykolenko,Vitalii Mykolenko,Everton FC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,alex-iwobi,Alex Iwobi,Fulham FC,English League Players,ROSTER,IMPACT,
+2026-11-11,lucas-gourna-douath,Lucas Gourna-Douath,Hull City AFC,English League Players,DNP,ROSTER,
+2026-11-11,oluwasemilogo-adesewo-ibidapo-ajayi,S. Ajayi,Hull City AFC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,konstantinos-tzolakis,Konstantinos Tzolakis,Hull City AFC,English League Players,ROSTER,IMPACT,
+2026-11-11,melvin-bard,Melvin Bard,Leeds United FC,English League Players,DNP,ROSTER,oui
+2026-11-11,ilia-gruev-2000-05-03,Ilia Gruev,Leeds United FC,English League Players,DNP,ROSTER,
+2026-11-11,joe-rodon,Joseph Rodon,Leeds United FC,English League Players,DNP,ROSTER,oui
+2026-11-11,sean-longstaff,Sean Longstaff,Leeds United FC,English League Players,DNP,ROSTER,
+2026-11-11,alexis-mac-allister,Alexis Mac Allister,Liverpool FC,English League Players,ROSTER,IMPACT,
+2026-11-11,iliman-ndiaye,Iliman Ndiaye,Manchester City FC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,noussair-mazraoui,Noussair Mazraoui,Manchester United FC,English League Players,DNP,ROSTER,oui
+2026-11-11,shea-lacey,Shea Lacey,Manchester United FC,English League Players,DNP,ROSTER,
+2026-11-11,kobbie-mainoo,Kobbie Mainoo,Manchester United FC,English League Players,ROSTER,IMPACT,
+2026-11-11,patrick-chinazaekpere-dorgu,Patrick Dorgu,Manchester United FC,English League Players,DNP,ROSTER,oui
+2026-11-11,youri-tielemans,Youri Tielemans,Manchester United FC,English League Players,ROSTER,IMPACT,
+2026-11-11,igor-jesus-maciel-da-cruz,Igor Jesus,Nottingham Forest FC,English League Players,DNP,ROSTER,oui
+2026-11-11,murillo-santiago-costa-dos-santos,Murillo,Nottingham Forest FC,English League Players,ROSTER,IMPACT,
+2026-11-11,chemsdine-talbi,Chemsdine Talbi,Sunderland AFC,English League Players,DNP,ROSTER,oui
+2026-11-11,enzo-le-fee,Enzo Le Fée,Sunderland AFC,English League Players,ROSTER,IMPACT,oui
+2026-11-11,rodrigo-bentancur-colman,Rodrigo Bentancur,Tottenham Hotspur FC,English League Players,DNP,ROSTER,
+2026-11-11,emmanuel-junior-biumla-bayiha,Emmanuel Biumla,Angers SCO,Ligue 1,ROSTER,DNP,oui
+2026-11-11,elikya-legros,Elikya Legros,AJ Auxerre,Ligue 1,ROSTER,DNP,
+2026-11-11,cameron-archer,Cameron Archer,AJ Auxerre,Ligue 1,IMPACT,ROSTER,
+2026-11-11,hugo-magnetti,Hugo Magnetti,Stade Brestois 29,Ligue 1,IMPACT,ROSTER,oui
+2026-11-11,ruben-aguilar,Ruben Aguilar,RC Lens,Ligue 1,IMPACT,ROSTER,
+2026-11-11,jordan-teze,Jordan Teze,AS Monaco,Ligue 1,IMPACT,ROSTER,
+2026-11-11,anssumane-fati,Ansu Fati,AS Monaco,Ligue 1,ROSTER,DNP,
+2026-11-11,morgan-sanson,Morgan Sanson,OGC Nice,Ligue 1,ROSTER,DNP,
+2026-11-11,tyler-morton,Tyler Morton,Olympique Lyonnais,Ligue 1,ROSTER,DNP,
+2026-11-11,ernest-appiah-nuamah,Ernest Nuamah,Olympique Lyonnais,Ligue 1,IMPACT,ROSTER,oui
+2026-11-11,zachary-athekame,Zachary Athekame,Olympique Lyonnais,Ligue 1,IMPACT,ROSTER,
+2026-11-11,remi-stephane-himbert,Rémi Himbert,Olympique Lyonnais,Ligue 1,ROSTER,DNP,
+2026-11-11,nouhoum-kamissoko,Nouhoum Kamissoko,Olympique de Marseille,Ligue 1,ROSTER,DNP,
+2026-11-11,quentin-merlin,Quentin Merlin,Stade Rennais F.C.,Ligue 1,ROSTER,DNP,
+2026-11-11,fabio-amadu-uri-balde,Fábio Baldé,RC Strasbourg Alsace,Ligue 1,ROSTER,DNP,oui
+2026-11-11,noah-donkor-znamensky,Noah Donkor,ESTAC Troyes,Ligue 1,ROSTER,DNP,
+2026-11-11,patrick-beach,Patrick Beach,ESTAC Troyes,Ligue 1,ROSTER,DNP,
+2026-11-11,young-woo-seol,Seol Young-Woo,FC Augsburg,Bundesliga,ROSTER,DNP,
+2026-11-11,moussa-diaby,Moussa Diaby,Bayer 04 Leverkusen,Bundesliga,ROSTER,DNP,
+2026-11-11,edmond-faycal-tapsoba,Edmond Tapsoba,Bayer 04 Leverkusen,Bundesliga,IMPACT,ROSTER,
+2026-11-11,nathan-tella,Nathan Tella,Bayer 04 Leverkusen,Bundesliga,ROSTER,DNP,oui
+2026-11-11,jonathan-tah,Jonathan Tah,FC Bayern München,Bundesliga,IMPACT,ROSTER,
+2026-11-11,lilian-brassier,Lilian Brassier,Eintracht Frankfurt,Bundesliga,IMPACT,ROSTER,oui
+2026-11-11,amara-conde,Amara Condé,SV 07 Elversberg,Bundesliga,ROSTER,DNP,
+2026-11-11,noah-yanis-darvich,Noah Darvich,SV 07 Elversberg,Bundesliga,ROSTER,DNP,oui
+2026-11-11,nicolas-capaldo,Nicolás Capaldo,Hamburger SV,Bundesliga,ROSTER,DNP,oui
+2026-11-11,robin-hranac,Robin Hranáč,TSG Hoffenheim,Bundesliga,ROSTER,DNP,
+2026-11-11,bambase-conte,Bambasé Conté,TSG Hoffenheim,Bundesliga,ROSTER,DNP,
+2026-11-11,gian-luca-waldschmidt,Luca Waldschmidt,1. FC Köln,Bundesliga,ROSTER,DNP,
+2026-11-11,jonah-benedict-sticker,Jonah Sticker,SC Paderborn 07,Bundesliga,ROSTER,DNP,
+2026-11-11,santiago-castaneda,Santiago Castañeda,SC Paderborn 07,Bundesliga,IMPACT,ROSTER,
+2026-11-11,andrija-maksimovic,Andrija Maksimović,RB Leipzig,Bundesliga,ROSTER,DNP,oui
+2026-11-11,orjan-haskjold-nyland,Ørjan Nyland,RB Leipzig,Bundesliga,ROSTER,DNP,
+2026-11-11,max-finkgrafe,Max Finkgräfe,RB Leipzig,Bundesliga,ROSTER,DNP,
+2026-11-11,janik-bachmann,Janik Bachmann,FC Schalke 04,Bundesliga,ROSTER,DNP,
+2026-11-11,maximilian-wober,Maximilian Wöber,FC Schalke 04,Bundesliga,ROSTER,DNP,
+2026-11-11,adrian-tobias-gantenbein,Adrian Gantenbein,FC Schalke 04,Bundesliga,ROSTER,DNP,oui
+2026-11-11,angelo-stiller,Angelo Stiller,VfB Stuttgart,Bundesliga,IMPACT,DNP,
+2026-11-11,leo-sauer,Leo Sauer,VfB Stuttgart,Bundesliga,ROSTER,DNP,
+2026-11-11,mikel-jauregizar-alboniga,Mikel Jauregizar,Athletic Club,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,pablo-barrios-rivas,Pablo Barrios,Atlético de Madrid,LALIGA EA Sports,IMPACT,ROSTER,
+2026-11-11,xavi-espart-font,Xavi Espart,FC Barcelona,LALIGA EA Sports,ROSTER,DNP,oui
+2026-11-11,ionu-andrei-radu,Ionuț Radu,RC Celta,LALIGA EA Sports,IMPACT,ROSTER,
+2026-11-11,bright-ede,Bright Ede,Real Club Deportivo de La Coruña,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,marc-aguado-pallares,Marc Aguado,Elche CF,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,clemens-riedel,Clemens Riedel,RCD Espanyol de Barcelona,LALIGA EA Sports,ROSTER,DNP,oui
+2026-11-11,saba-sazonov,Saba Sazonov,Getafe CF,LALIGA EA Sports,ROSTER,DNP,oui
+2026-11-11,izan-merino-rodriguez,Izan Merino,Málaga CF,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,asier-villalibre-molina,Asier Villalibre,Real Racing Club de Santander,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,francisco-perez-martinez,Fran Pérez,Rayo Vallecano,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,giovani-lo-celso,Giovani Lo Celso,Real Betis,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,andriy-lunin,Andriy Lunin,Real Madrid,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,arsen-zakharyan,Arsen Zakharyan,Real Sociedad,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,gerard-fernandez-castellano,Peque Fernández,Sevilla FC,LALIGA EA Sports,ROSTER,DNP,oui
+2026-11-11,stole-dimitrievski,Stole Dimitrievski,Valencia CF,LALIGA EA Sports,IMPACT,ROSTER,oui
+2026-11-11,guido-rodriguez,Guido Rodríguez,Valencia CF,LALIGA EA Sports,IMPACT,ROSTER,oui
+2026-11-11,justin-de-haas,Justin de Haas,Valencia CF,LALIGA EA Sports,IMPACT,ROSTER,oui
+2026-11-11,ilias-akhomach-chakkour,Ilias Akhomach,Villarreal CF,LALIGA EA Sports,ROSTER,DNP,oui
+2026-11-11,juan-marcos-foyth,Juan Foyth,Villarreal CF,LALIGA EA Sports,ROSTER,DNP,
+2026-11-11,viktor-gyokeres,Viktor Gyökeres,Arsenal FC,English League Players,IMPACT,ROSTER,oui
+2026-11-11,ben-white,Ben White,Arsenal FC,English League Players,IMPACT,ROSTER,
+2026-11-11,boubacar-kamara,Boubacar Kamara,Aston Villa FC,English League Players,IMPACT,ROSTER,oui
+2026-11-11,ferdi-erenay-kadioglu,Ferdi Kadıoğlu,Brighton & Hove Albion FC,English League Players,ROSTER,DNP,
+2026-11-11,kaine-kessler,Kaine Kesler-Hayden,Coventry City FC,English League Players,ROSTER,DNP,
+2026-11-11,walter-daniel-benitez,Walter Benítez,Crystal Palace FC,English League Players,ROSTER,DNP,
+2026-11-11,jack-grealish,Jack Grealish,Everton FC,English League Players,ROSTER,DNP,
+2026-11-11,ainsley-maitland-niles,Ainsley Maitland-Niles,Everton FC,English League Players,ROSTER,DNP,oui
+2026-11-11,tom-cairney,Tom Cairney,Fulham FC,English League Players,ROSTER,DNP,oui
+2026-11-11,sorba-thomas,Sorba Thomas,Hull City AFC,English League Players,ROSTER,DNP,
+2026-11-11,azor-matusiwa,Azor Matusiwa,Ipswich Town FC,English League Players,ROSTER,DNP,oui
+2026-11-11,jacob-greaves,Jacob Greaves,Ipswich Town FC,English League Players,ROSTER,DNP,
+2026-11-11,jean-matteo-bahoya,Jean-Mattéo Bahoya,Leeds United FC,English League Players,ROSTER,DNP,oui
+2026-11-11,ryan-gravenberch,Ryan Gravenberch,Liverpool FC,English League Players,ROSTER,DNP,
+2026-11-11,rico-lewis,Rico Lewis,Manchester City FC,English League Players,ROSTER,DNP,oui
+2026-11-11,sven-botman,Sven Botman,Newcastle United FC,English League Players,ROSTER,DNP,oui
+2026-11-11,ousmane-diomande,Ousmane Diomande,Nottingham Forest FC,English League Players,ROSTER,DNP,oui
+2026-11-11,nicolas-dominguez,Nicolás Domínguez,Nottingham Forest FC,English League Players,ROSTER,DNP,
+2026-11-11,granit-xhaka,Granit Xhaka,Sunderland AFC,English League Players,IMPACT,ROSTER,
+2026-11-11,mouhamadou-diarra,Habib Diarra,Sunderland AFC,English League Players,ROSTER,DNP,oui
+2026-11-11,oluwatosin-adarabioyo,Tosin Adarabioyo,Tottenham Hotspur FC,English League Players,ROSTER,DNP,
+2026-11-11,andrew-robertson,Andy Robertson,Tottenham Hotspur FC,English League Players,IMPACT,ROSTER,
