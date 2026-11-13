@@ -695,6 +695,14 @@
   "since": "2026-11-02",
   "tier": null
  },
+ "alejandro-moya-grediaga": {
+  "club": "Levante UD",
+  "league": "LALIGA EA Sports",
+  "name": "Alejandro Moya",
+  "pos": "Defender",
+  "since": "2026-11-13",
+  "tier": null
+ },
  "alejandro-padilla-perez": {
   "club": "Athletic Club",
   "league": "LALIGA EA Sports",
@@ -709,6 +717,14 @@
   "name": "Alex Panach",
   "pos": "Defender",
   "since": "2026-11-02",
+  "tier": null
+ },
+ "alejandro-postigo-collado": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Alejandro Postigo",
+  "pos": "Goalkeeper",
+  "since": "2026-11-13",
   "tier": null
  },
  "alejandro-primo-hernandez": {
@@ -2486,6 +2502,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "IMPACT"
+ },
+ "borja-alonso-cabrera": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Borja Alonso",
+  "pos": "Forward",
+  "since": "2026-11-13",
+  "tier": null
  },
  "borja-iglesias-quintas": {
   "club": "RC Celta",
@@ -7287,6 +7311,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "ivan-corralejo-mantero": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Iván Corralejo",
+  "pos": "Midfielder",
+  "since": "2026-11-13",
+  "tier": null
+ },
  "ivan-martin-nunez": {
   "club": "Real Racing Club de Santander",
   "league": "LALIGA EA Sports",
@@ -10838,6 +10870,14 @@
   "pos": "Midfielder",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "luis-miguel-perez-garcia": {
+  "club": "Levante UD",
+  "league": "LALIGA EA Sports",
+  "name": "Luismi Pérez",
+  "pos": "Forward",
+  "since": "2026-11-13",
+  "tier": null
  },
  "luis-seifert": {
   "club": "SV 07 Elversberg",
@@ -15263,6 +15303,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "ricardo-funez-gomez": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Ricardo Fúnez",
+  "pos": "Midfielder",
+  "since": "2026-11-13",
+  "tier": null
+ },
  "ricardo-rodriguez-gil-carcedo": {
   "club": "Real Club Deportivo de La Coruña",
   "league": "LALIGA EA Sports",
@@ -15502,6 +15550,14 @@
   "pos": "Midfielder",
   "since": "2026-11-09",
   "tier": "IMPACT"
+ },
+ "rodrigo-marina-parra": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Rodri Marina",
+  "pos": "Forward",
+  "since": "2026-11-13",
+  "tier": null
  },
  "rodrigo-mendoza-martinez-moya": {
   "club": "Atlético de Madrid",
@@ -18022,6 +18078,14 @@
   "pos": "Forward",
   "since": "2026-11-09",
   "tier": "GOAT"
+ },
+ "yan-zhuravskyi": {
+  "club": "Real Betis",
+  "league": "LALIGA EA Sports",
+  "name": "Yan Zhuravskyi",
+  "pos": "Goalkeeper",
+  "since": "2026-11-13",
+  "tier": null
  },
  "yangel-clemente-herrera-ravelo": {
   "club": "Real Sociedad",
