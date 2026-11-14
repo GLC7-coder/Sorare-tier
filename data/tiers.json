@@ -4372,8 +4372,8 @@
   "league": "LALIGA EA Sports",
   "name": "Dominik Livaković",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "DNP"
+  "since": "2026-11-14",
+  "tier": "ROSTER"
  },
  "dominik-szoboszlai": {
   "club": "Liverpool FC",
@@ -4564,8 +4564,8 @@
   "league": "English League Players",
   "name": "Eli Junior Kroupi",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "DNP"
+  "since": "2026-11-14",
+  "tier": "ROSTER"
  },
  "elias-alexander-legendre-quinonez": {
   "club": "Stade Rennais F.C.",
@@ -5380,8 +5380,8 @@
   "league": "English League Players",
   "name": "Ferdi Kadıoğlu",
   "pos": "Defender",
-  "since": "2026-11-11",
-  "tier": "DNP"
+  "since": "2026-11-14",
+  "tier": "ROSTER"
  },
  "ferland-mendy": {
   "club": "Real Madrid",
@@ -7780,8 +7780,8 @@
   "league": "Bundesliga",
   "name": "Jarell Quansah",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "ROSTER"
+  "since": "2026-11-14",
+  "tier": "IMPACT"
  },
  "jarrad-branthwaite": {
   "club": "Everton FC",
@@ -10948,8 +10948,8 @@
   "league": "Ligue 1",
   "name": "Lukáš Hradecky",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-14",
+  "tier": "ROSTER"
  },
  "lukas-johannes-blondal-petersson": {
   "club": "TSG Hoffenheim",
@@ -11574,6 +11574,14 @@
   "pos": "Forward",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "marcos-gonzalez-maestu": {
+  "club": "RC Celta",
+  "league": "LALIGA EA Sports",
+  "name": "Marcos González",
+  "pos": "Goalkeeper",
+  "since": "2026-11-14",
+  "tier": null
  },
  "marcos-llorente-moreno": {
   "club": "Atlético de Madrid",
@@ -16252,8 +16260,8 @@
   "league": "Ligue 1",
   "name": "Senny Mayulu",
   "pos": "Midfielder",
-  "since": "2026-11-07",
-  "tier": "IMPACT"
+  "since": "2026-11-14",
+  "tier": "ROSTER"
  },
  "seny-koumbassa": {
   "club": "Toulouse FC",
@@ -17806,6 +17814,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "vladimir-henrique-silva": {
+  "club": "RC Celta",
+  "league": "LALIGA EA Sports",
+  "name": "Vladimir Silva",
+  "pos": "Forward",
+  "since": "2026-11-14",
+  "tier": null
  },
  "vladyslav-kysil": {
   "club": "Getafe CF",
