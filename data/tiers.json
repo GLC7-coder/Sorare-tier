@@ -1820,8 +1820,8 @@
   "league": "LALIGA EA Sports",
   "name": "Antony",
   "pos": "Forward",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "ROSTER"
  },
  "ao-tanaka": {
   "club": "Leeds United FC",
@@ -2596,8 +2596,8 @@
   "league": "Bundesliga",
   "name": "Brajan Gruda",
   "pos": "Forward",
-  "since": "2026-11-07",
-  "tier": "IMPACT"
+  "since": "2026-11-16",
+  "tier": "STAR"
  },
  "branco-van-den-boomen": {
   "club": "Angers SCO",
@@ -2684,8 +2684,8 @@
   "league": "Ligue 1",
   "name": "Brice Samba",
   "pos": "Goalkeeper",
-  "since": "2026-11-05",
-  "tier": "IMPACT"
+  "since": "2026-11-16",
+  "tier": "STAR"
  },
  "bright-ede": {
   "club": "Real Club Deportivo de La Coruña",
@@ -3284,8 +3284,8 @@
   "league": "Bundesliga",
   "name": "Christopher Nkunku",
   "pos": "Forward",
-  "since": "2026-11-07",
-  "tier": "IMPACT"
+  "since": "2026-11-16",
+  "tier": "STAR"
  },
  "christopher-rigg": {
   "club": "Sunderland AFC",
@@ -8604,8 +8604,8 @@
   "league": "Bundesliga",
   "name": "Jonas Urbig",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "GOAT"
  },
  "jonathan-asp-jensen": {
   "club": "Real Club Deportivo de La Coruña",
@@ -11348,8 +11348,8 @@
   "league": "Bundesliga",
   "name": "Manuel Neuer",
   "pos": "Goalkeeper",
-  "since": "2026-11-05",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "ROSTER"
  },
  "manuel-pherai": {
   "club": "Hamburger SV",
@@ -11740,8 +11740,8 @@
   "league": "Bundesliga",
   "name": "Mark Flekken",
   "pos": "Goalkeeper",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "ROSTER"
  },
  "mark-gillespie": {
   "club": "Newcastle United FC",
@@ -15556,8 +15556,8 @@
   "league": "LALIGA EA Sports",
   "name": "Rodrigo",
   "pos": "Midfielder",
-  "since": "2026-11-09",
-  "tier": "IMPACT"
+  "since": "2026-11-16",
+  "tier": "STAR"
  },
  "rodrigo-marina-parra": {
   "club": "Real Betis",
@@ -16948,8 +16948,8 @@
   "league": "LALIGA EA Sports",
   "name": "Thibaut Courtois",
   "pos": "Goalkeeper",
-  "since": "2026-11-05",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "GOAT"
  },
  "thierno-barry-2002-10-21": {
   "club": "Everton FC",
@@ -17948,8 +17948,8 @@
   "league": "Ligue 1",
   "name": "Willian Pacho",
   "pos": "Defender",
-  "since": "2026-11-02",
-  "tier": "STAR"
+  "since": "2026-11-16",
+  "tier": "ROSTER"
  },
  "william-saliba": {
   "club": "Arsenal FC",
