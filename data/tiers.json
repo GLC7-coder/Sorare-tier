@@ -5492,8 +5492,8 @@
   "league": "Bundesliga",
   "name": "Fisnik Asllani",
   "pos": "Forward",
-  "since": "2026-11-11",
-  "tier": "IMPACT"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "flavien-enzo-boyomos": {
   "club": "CA Osasuna",
@@ -5924,8 +5924,8 @@
   "league": "Ligue 1",
   "name": "Genesis Antwi",
   "pos": "Defender",
-  "since": "2026-11-17",
-  "tier": "DNP"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "geoffrey-kondogbia": {
   "club": "Olympique de Marseille",
@@ -6100,8 +6100,8 @@
   "league": "English League Players",
   "name": "Giorgi Mamardashvili",
   "pos": "Goalkeeper",
-  "since": "2026-11-17",
-  "tier": "ROSTER"
+  "since": "2026-11-20",
+  "tier": "IMPACT"
  },
  "giovani-lo-celso": {
   "club": "Real Betis",
@@ -14164,8 +14164,8 @@
   "league": "Bundesliga",
   "name": "Ørjan Nyland",
   "pos": "Goalkeeper",
-  "since": "2026-11-11",
-  "tier": "DNP"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "orlando-gill": {
   "club": "LOSC Lille",
@@ -14196,8 +14196,8 @@
   "league": "English League Players",
   "name": "Oscar Bobb",
   "pos": "Midfielder",
-  "since": "2026-11-17",
-  "tier": "IMPACT"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "oscar-lopez": {
   "club": "Getafe CF",
@@ -14836,8 +14836,8 @@
   "league": "Ligue 1",
   "name": "Pierre-Emile Højbjerg",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "ROSTER"
+  "since": "2026-11-20",
+  "tier": "IMPACT"
  },
  "pierre-ismaelo-ganiou": {
   "club": "RC Lens",
@@ -16212,8 +16212,8 @@
   "league": "Ligue 1",
   "name": "Sebastian Szymański",
   "pos": "Midfielder",
-  "since": "2026-11-02",
-  "tier": "IMPACT"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "sekou-fofana-2003-03-25": {
   "club": "AJ Auxerre",
@@ -16532,8 +16532,8 @@
   "league": "English League Players",
   "name": "Sorba Thomas",
   "pos": "Forward",
-  "since": "2026-11-11",
-  "tier": "DNP"
+  "since": "2026-11-20",
+  "tier": "ROSTER"
  },
  "soriba-diaoune": {
   "club": "LOSC Lille",
