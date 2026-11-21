@@ -2503,6 +2503,14 @@
   "since": "2026-11-02",
   "tier": "IMPACT"
  },
+ "bocar-wade": {
+  "club": "Le Havre AC",
+  "league": "Ligue 1",
+  "name": "Bocar Wade",
+  "pos": "Defender",
+  "since": "2026-11-21",
+  "tier": null
+ },
  "borja-alonso-cabrera": {
   "club": "Real Betis",
   "league": "LALIGA EA Sports",
@@ -4246,6 +4254,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "DNP"
+ },
+ "dino-kaiser": {
+  "club": "Fulham FC",
+  "league": "English League Players",
+  "name": "Dino Kaiser",
+  "pos": "Goalkeeper",
+  "since": "2026-11-21",
+  "tier": null
  },
  "diogo-lobao-de-sousa": {
   "club": "RC Strasbourg Alsace",
@@ -11159,6 +11175,14 @@
   "since": "2026-11-02",
   "tier": "DNP"
  },
+ "makar-kotovshchikov": {
+  "club": "RCD Espanyol de Barcelona",
+  "league": "LALIGA EA Sports",
+  "name": "Makar Kotovshchikov",
+  "pos": "Forward",
+  "since": "2026-11-21",
+  "tier": null
+ },
  "malek-el-mala": {
   "club": "1. FC Köln",
   "league": "Bundesliga",
@@ -13806,6 +13830,14 @@
   "pos": "Midfielder",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "noah-codjo-evora": {
+  "club": "FC Bayern München",
+  "league": "Bundesliga",
+  "name": "Noah Codjo-Evora",
+  "pos": "Forward",
+  "since": "2026-11-21",
+  "tier": null
  },
  "noah-donkor-znamensky": {
   "club": "ESTAC Troyes",
