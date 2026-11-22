@@ -6775,6 +6775,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "ianis-sacko": {
+  "club": "Angers SCO",
+  "league": "Ligue 1",
+  "name": "Ianis Sacko",
+  "pos": "Goalkeeper",
+  "since": "2026-11-22",
+  "tier": null
+ },
  "ibai-aguirre-basurco": {
   "club": "Real Sociedad",
   "league": "LALIGA EA Sports",
@@ -7054,6 +7062,14 @@
   "pos": "Forward",
   "since": "2026-11-11",
   "tier": "DNP"
+ },
+ "ilies-belmokhtar": {
+  "club": "AS Monaco",
+  "league": "Ligue 1",
+  "name": "Ilies Belmokhtar",
+  "pos": "Forward",
+  "since": "2026-11-22",
+  "tier": null
  },
  "iliman-ndiaye": {
   "club": "Manchester City FC",
@@ -11485,6 +11501,14 @@
   "name": "Marc Santos",
   "pos": "Defender",
   "since": "2026-11-02",
+  "tier": null
+ },
+ "marc-scuri-marti": {
+  "club": "Sevilla FC",
+  "league": "LALIGA EA Sports",
+  "name": "Marc Scuri",
+  "pos": "Forward",
+  "since": "2026-11-22",
   "tier": null
  },
  "marcel-hoffmeier": {
@@ -16830,6 +16854,14 @@
   "pos": "Midfielder",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "tamiou-miguel-kpebane": {
+  "club": "Sevilla FC",
+  "league": "LALIGA EA Sports",
+  "name": "Tamiou Kpebane",
+  "pos": "Defender",
+  "since": "2026-11-22",
+  "tier": null
  },
  "tani-oluwaseyi": {
   "club": "Villarreal CF",
