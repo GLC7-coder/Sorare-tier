@@ -2207,6 +2207,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "bafode-gassama-gassama": {
+  "club": "Getafe CF",
+  "league": "LALIGA EA Sports",
+  "name": "Bafode Gassama",
+  "pos": "Defender",
+  "since": "2026-11-23",
+  "tier": null
+ },
  "bakery-jatta": {
   "club": "Hamburger SV",
   "league": "Bundesliga",
@@ -11135,6 +11143,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "mady-macalou-soumano": {
+  "club": "Getafe CF",
+  "league": "LALIGA EA Sports",
+  "name": "Mady Macalou",
+  "pos": "Midfielder",
+  "since": "2026-11-23",
+  "tier": null
+ },
  "mael-gernigon": {
   "club": "Angers SCO",
   "league": "Ligue 1",
@@ -14254,6 +14270,14 @@
   "pos": "Midfielder",
   "since": "2026-11-20",
   "tier": "ROSTER"
+ },
+ "oscar-gonzalez-campos": {
+  "club": "Málaga CF",
+  "league": "LALIGA EA Sports",
+  "name": "Óscar González",
+  "pos": "Defender",
+  "since": "2026-11-23",
+  "tier": null
  },
  "oscar-lopez": {
   "club": "Getafe CF",
