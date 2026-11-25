@@ -7463,6 +7463,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "jack-porter-2008-07-15": {
+  "club": "Arsenal FC",
+  "league": "English League Players",
+  "name": "Jack Porter",
+  "pos": "Goalkeeper",
+  "since": "2026-11-25",
+  "tier": null
+ },
  "jack-rudoni": {
   "club": "Coventry City FC",
   "league": "English League Players",
@@ -10318,6 +10326,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "DNP"
+ },
+ "leopold-joursky": {
+  "club": "RC Lens",
+  "league": "Ligue 1",
+  "name": "Leopold Joursky",
+  "pos": "Midfielder",
+  "since": "2026-11-25",
+  "tier": null
  },
  "leopold-querfeld": {
   "club": "1. FC Union Berlin",
@@ -14167,6 +14183,14 @@
   "since": "2026-11-11",
   "tier": "DNP"
  },
+ "oluwatoyosi-joshua-adewale-ogunnaike": {
+  "club": "Arsenal FC",
+  "league": "English League Players",
+  "name": "Joshua Ogunnaike",
+  "pos": "Defender",
+  "since": "2026-11-25",
+  "tier": null
+ },
  "omar-el-hilali": {
   "club": "RCD Espanyol de Barcelona",
   "league": "LALIGA EA Sports",
@@ -14270,6 +14294,14 @@
   "pos": "Midfielder",
   "since": "2026-11-20",
   "tier": "ROSTER"
+ },
+ "oscar-gistau-ferreno": {
+  "club": "FC Barcelona",
+  "league": "LALIGA EA Sports",
+  "name": "Óscar Gistau",
+  "pos": "Forward",
+  "since": "2026-11-25",
+  "tier": null
  },
  "oscar-gonzalez-campos": {
   "club": "Málaga CF",
@@ -17398,6 +17430,14 @@
   "pos": "Forward",
   "since": "2026-11-04",
   "tier": "DNP"
+ },
+ "toni-stefan-langsteiner": {
+  "club": "RB Leipzig",
+  "league": "Bundesliga",
+  "name": "Toni Langsteiner",
+  "pos": "Midfielder",
+  "since": "2026-11-25",
+  "tier": null
  },
  "tosin-aiyegun": {
   "club": "FC Lorient",
