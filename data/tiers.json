@@ -10511,6 +10511,14 @@
   "since": "2026-11-02",
   "tier": "ROSTER"
  },
+ "loic-tiamuna-lubaki": {
+  "club": "AS Monaco",
+  "league": "Ligue 1",
+  "name": "Loïc Tiamuna",
+  "pos": "Goalkeeper",
+  "since": "2026-11-26",
+  "tier": null
+ },
  "lois-openda": {
   "club": "Olympique Lyonnais",
   "league": "Ligue 1",
@@ -11679,6 +11687,14 @@
   "since": "2026-11-02",
   "tier": null
  },
+ "marcos-pachon-sanchez": {
+  "club": "Getafe CF",
+  "league": "LALIGA EA Sports",
+  "name": "Marcos Pachón",
+  "pos": "Forward",
+  "since": "2026-11-26",
+  "tier": null
+ },
  "marcos-senesi": {
   "club": "Tottenham Hotspur FC",
   "league": "English League Players",
@@ -12607,6 +12623,14 @@
   "since": "2026-11-11",
   "tier": "ROSTER"
  },
+ "melvin-gomes-da-veiga": {
+  "club": "AS Monaco",
+  "league": "Ligue 1",
+  "name": "Melvin Gomes",
+  "pos": "Defender",
+  "since": "2026-11-26",
+  "tier": null
+ },
  "melvin-zinga": {
   "club": "Angers SCO",
   "league": "Ligue 1",
@@ -13046,6 +13070,14 @@
   "pos": "Forward",
   "since": "2026-11-02",
   "tier": "IMPACT"
+ },
+ "mohamed-lamine-baradji": {
+  "club": "Olympique de Marseille",
+  "league": "Ligue 1",
+  "name": "Mohamed Baradji",
+  "pos": "Defender",
+  "since": "2026-11-26",
+  "tier": null
  },
  "mohamed-ouedraogo": {
   "club": "Olympique Lyonnais",
