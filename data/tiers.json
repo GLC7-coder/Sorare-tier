@@ -1092,8 +1092,8 @@
   "league": "Bundesliga",
   "name": "Alphonso Davies",
   "pos": "Defender",
-  "since": "2026-11-24",
-  "tier": "IMPACT"
+  "since": "2026-11-27",
+  "tier": "ROSTER"
  },
  "altay-bayindir": {
   "club": "RC Celta",
@@ -2700,8 +2700,8 @@
   "league": "Ligue 1",
   "name": "Brice Samba",
   "pos": "Goalkeeper",
-  "since": "2026-11-24",
-  "tier": "IMPACT"
+  "since": "2026-11-27",
+  "tier": "ROSTER"
  },
  "bright-ede": {
   "club": "Real Club Deportivo de La Coruña",
@@ -3126,6 +3126,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "IMPACT"
+ },
+ "charlie-george-walker-smith": {
+  "club": "Crystal Palace FC",
+  "league": "English League Players",
+  "name": "Charlie Walker-Smith",
+  "pos": "Defender",
+  "since": "2026-11-27",
+  "tier": null
  },
  "charlie-hughes": {
   "club": "Hull City AFC",
@@ -3622,6 +3630,14 @@
   "pos": "Midfielder",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "daniel-diaz-gandara": {
+  "club": "Real Sociedad",
+  "league": "LALIGA EA Sports",
+  "name": "Dani Díaz",
+  "pos": "Forward",
+  "since": "2026-11-27",
+  "tier": null
  },
  "daniel-heuer-fernandes": {
   "club": "Hamburger SV",
@@ -9038,6 +9054,14 @@
   "pos": "Defender",
   "since": "2026-11-02",
   "tier": "ROSTER"
+ },
+ "joseph-christopher-leonard-cowan": {
+  "club": "Sunderland AFC",
+  "league": "English League Players",
+  "name": "Joseph Cowan",
+  "pos": "Goalkeeper",
+  "since": "2026-11-27",
+  "tier": null
  },
  "joseph-kalulu-kyatengwa": {
   "club": "Angers SCO",
@@ -18084,8 +18108,8 @@
   "league": "Bundesliga",
   "name": "Willi Orbán",
   "pos": "Defender",
-  "since": "2026-11-24",
-  "tier": "IMPACT"
+  "since": "2026-11-27",
+  "tier": "ROSTER"
  },
  "william-cole-campbell": {
   "club": "SV 07 Elversberg",
